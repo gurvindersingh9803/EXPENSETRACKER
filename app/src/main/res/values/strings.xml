@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EXPENSE TRACKER</string>
+    <string name="people_count">How many people you are?</string>
+    <string name="people_count_Submit_button">Submit</string>
+    <string name="calculate">Calculate</string>
+    <string name="money_spend">Money spend</string>
+
+
+
+
+</resources>
